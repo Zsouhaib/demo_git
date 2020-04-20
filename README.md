@@ -1,2 +1,2 @@
-# demo_git
-une demo de git à pusher sur github
+#demo_git
+bonne initiation à git.
